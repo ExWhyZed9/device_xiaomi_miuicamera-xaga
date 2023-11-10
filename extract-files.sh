@@ -8,7 +8,7 @@
 
 set -e
 
-DEVICE=miuicamera-ruby
+DEVICE=miuicamera-xaga
 VENDOR=xiaomi
 
 # Load extract_utils and do some sanity checks

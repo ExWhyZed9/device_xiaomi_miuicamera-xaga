@@ -1,7 +1,4 @@
-# All unpinned blobs below are extracted from ruby V14.0.1.0.TMOMIXM
-
-product/priv-app/MiuiCamera/MiuiCamera.apk:system/priv-app/MiuiCamera/MiuiCamera.apk|008d6975980c2bffc23588fd8600550e7ee97b75
-system/etc/public.libraries-xiaomi.txt
+product/priv-app/MiuiCamera/MiuiCamera.apk:system/priv-app/MiuiCamera/MiuiCamera.apk;OVERRIDES=Snap,GoogleCameraGo,Camera2,Aperture,Flash|308db0fd402336fdd9db06b626bc80291db167ac
 system/lib64/libcamera_algoup_jni.xiaomi.so
 system/lib64/libcamera_mianode_jni.xiaomi.so
 system/lib64/libcamera_ispinterface_jni.xiaomi.so

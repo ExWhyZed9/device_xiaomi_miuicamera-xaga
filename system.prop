@@ -7,3 +7,8 @@ persist.vendor.camera.privapp.list=com.android.camera
 
 # MiuiCamera
 ro.miui.notch=1
+persist.log.tag.HapticCompat=S
+persist.log.tag.CAM_CameraUtil=S
+persist.log.tag.OneHopHelper=S
+persist.log.tag.DeviceUtils=S
+persist.log.tag.CAM_BoostFrameworkImpl=S
